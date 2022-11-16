@@ -28,7 +28,7 @@ Faça um programa que leia um valor informado pelo usuário e diga se o valor in
 Faça um programa para ler 3 valores (considere que não serão informados valores iguais) e escrever o maior deles. 
 ##
 
-h1>7 - Qual o quê?</h1>
+<h1>7 - Qual o quê?</h1>
 Faça um programa que leia  3 valores (considere que não serão informados valores iguais) e escrever a soma dos 2 maiores. 
 ##
 <h1>Repita comigo</h1>
